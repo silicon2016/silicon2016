@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+
 **silicon2016/silicon2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img width="27" height="27" alt="image" src="https://github.com/user-attachments/assets/d9e05107-b784-4862-824f-26e84d73b961" />
